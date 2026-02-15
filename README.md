@@ -65,7 +65,7 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bramble555&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bramble555&theme=tokyonight" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bramble555&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -74,7 +74,7 @@
 ## 🧠 语言统计
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramble555&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bramble555&theme=tokyonight" />
 </div>
 
 ---
